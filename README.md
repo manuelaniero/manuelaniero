@@ -1,4 +1,4 @@
-## Eu sou a Manuela Niero, estágiaria e estudante de tecnologia!
+## Eu sou a Manuela Niero!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Manu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

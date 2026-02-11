@@ -1,4 +1,4 @@
-#  Manuela Euzebio Niero 
+# 👩🏻‍💻 Manuela Euzebio Niero 
 
 *Formada em de Data Science e Analista de dados no Grupo SBF - Centauro*
 

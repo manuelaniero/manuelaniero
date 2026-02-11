@@ -15,5 +15,19 @@
 <div> 
   <a href = "mailto:manuela.niero@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manuela-niero?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+
+
+  ### 📊 Estatísticas
+
+<table border="0">
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ViniciusFlorido&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ViniciusFlorido&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br" />
+    </td>
+  </tr>
+</table>
 </div>

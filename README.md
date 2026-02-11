@@ -57,11 +57,11 @@
 
 <img 
     align="left" 
-    alt="Power BI" 
-    title="Power BI"
+    alt="Scikit-Learn" 
+    title="Scikit-Learn"
     width="45px" 
     style="padding-right: 10px;" 
-    src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" 
+    src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
 />
 
 <br clear="left"/>

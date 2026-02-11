@@ -64,15 +64,6 @@
     src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="45px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" 
-/>
-
 <br clear="left"/>
 
 ---

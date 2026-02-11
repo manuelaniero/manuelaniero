@@ -1,20 +1,74 @@
-## Eu sou a Manuela Niero!
+#  Manuela Euzebio Niero 
 
-<div> 
-  <a href = "mailto:manuela.niero@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/manuela-niero?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ## 📊 Linguagens e Tecnologias 
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Manu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Manu-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" /> 
-  <img align="center" alt="Manu-ORACLE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-  <img align="center" alt="Manu-DOKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-          
-</div>
+*Formada em de Data Science e Analista de dados no Grupo SBF - Centauro*
 
-  ### 📊 Estatísticas
+<p align="left">
+      <a href="https://www.linkedin.com/in/manuela-niero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" 
+/>
+
+<br clear="left"/>
+
+---
+
+### 📊 Estatísticas
 
 <table border="0">
   <tr>
@@ -22,8 +76,7 @@
       <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManuelaNiero&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
     </td>
     <td>
-      <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ViniciusFlorido&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br" />
+      <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelaNiero&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br" />
     </td>
   </tr>
 </table>
-</div>

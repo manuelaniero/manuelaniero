@@ -39,15 +39,6 @@
 
 <img 
     align="left" 
-    alt="TensorFlow" 
-    title="TensorFlow"
-    width="45px" 
-    style="padding-right: 10px;" 
-    src="https://www.gstatic.com/devrel-devsite/prod/v3e29f34807469a7b9735a266858e801b63700078a63503f8f1082c68618037d0/tensorflow/images/lockup.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Docker" 
     title="Docker"
     width="30px" 
@@ -64,6 +55,22 @@
     src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Apache Spark" 
+    title="Apache Spark"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" 
+/>
+<img 
+    align="left" 
+    alt="NumPy" 
+    title="NumPy"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" 
+/>
 <br clear="left"/>
 
 ---

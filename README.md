@@ -69,12 +69,10 @@
 ### 📊 Estatísticas
 
 <table border="0">
-  <tr>
-    <td>
-      <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manuelaniero&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
     </td>
     <td>
       <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manuelaniero&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br" />
     </td>
   </tr>
+      
 </table>

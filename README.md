@@ -21,11 +21,11 @@
 
 <img 
     align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="30px" 
+    alt="Pandas" 
+    title="Pandas"
+    width="45px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" 
 />
 
 <img 

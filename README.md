@@ -39,11 +39,11 @@
 
 <img 
     align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
+    alt="TensorFlow" 
+    title="TensorFlow"
+    width="45px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+    src="https://www.gstatic.com/devrel-devsite/prod/v3e29f34807469a7b9735a266858e801b63700078a63503f8f1082c68618037d0/tensorflow/images/lockup.svg" 
 />
 
 <img 
@@ -62,6 +62,15 @@
     width="45px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" 
 />
 
 <br clear="left"/>
